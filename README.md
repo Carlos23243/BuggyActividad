@@ -36,9 +36,3 @@ Además, se aplican **buenas prácticas** en:
 | Duplicados lógicos en `HashSet` | Implementación de `equals()` y `hashCode()` |
 
 ---
-
-##  Cómo Ejecutar  
-
-1. Clonar el repositorio  
-   ```bash
-   git clone https://github.com/tuusuario/BuggyActividad.git
